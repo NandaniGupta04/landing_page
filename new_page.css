@@ -1,0 +1,57 @@
+.tag
+{
+   color:#6edbb7;
+}
+.navbar-nav a:hover{
+    background-color:rgb(241, 236, 236);
+}
+.font1
+{
+    font-family: 'Carlito', sans-serif;
+}
+.font21
+{
+ font-family: 'Poppins', sans-serif;
+}
+ul li{
+    text-decoration:none;
+    display:inline-block;
+    margin-top:15px;
+    padding-left:20px;
+}
+.about-img{
+    border-radius:3rem 0 3rem 3rem;
+    }
+ .first
+ {
+text-align:center;
+    justify-content:start;
+ 
+    margin-top:80px;
+
+ }   
+ :root
+ {
+    --main-color:#daf8c0;
+    --dark:#21252f;
+    --body:#888;
+
+ }
+ body{
+    font-family: 'Carlito', sans-serif;
+    line-height:1.7;
+    color:var(--body)
+ }
+.theme-text{
+    color:var(--main-color);
+}
+.hero{
+    background-image: url("landing_page_image.jpg");
+    background-position: center;
+    background-size:cover;
+    background-attachment:fixed;
+}
+.textH{
+    font-weight: 100;
+
+}
